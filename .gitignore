@@ -1,0 +1,26 @@
+# Зависимости
+node_modules/
+
+# Файлы сборки
+build/
+dist/
+
+# Файлы конфигурации IDE
+.idea/
+.vscode/
+
+# Локальные файлы конфигурации
+.env
+.env.local
+.env.*.local
+
+# Файлы кэша и временные файлы
+.cache/
+.tmp/
+
+# Файлы логов
+*.log
+
+# Файлы конфигурации Git
+# .gitignore
+# .gitattributes
